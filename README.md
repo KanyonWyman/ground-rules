@@ -23,3 +23,7 @@ Keep communication lines open, let everyone be aware of what may be preventing u
 ## Duties
 
 We will define duties as we progress throughout our product.  We are all in this together, if we are struggling with our duties, don't be afraid to ask for help.  We can do this! 
+
+- Michael Sanchez
+- (Your Name Here)
+- (Your Name Here)
