@@ -26,4 +26,4 @@ We will define duties as we progress throughout our product.  We are all in this
 
 - Michael Sanchez
 - Kanyon Wyman
-- (Your Name Here)
+- James Mattos
