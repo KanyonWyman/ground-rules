@@ -27,3 +27,6 @@ We will define duties as we progress throughout our product.  We are all in this
 - Michael Sanchez
 - Kanyon Wyman
 - James Mattos
+
+
+## (User Stories) [User Stories_ Matchmaking.pdf]
